@@ -1,0 +1,19 @@
+{
+  "name": "planall_project",
+  "version": "1.0.0",
+  "description": "web application for managing lesson plans in an institution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LazyCoder404/planall.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LazyCoder404/planall/issues"
+  },
+  "homepage": "https://github.com/LazyCoder404/planall#readme"
+}
